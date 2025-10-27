@@ -4,7 +4,7 @@
  this project, you’ll have a deeper understanding of how to use methods, loops,
  conditionals, and user input in Java.
  
- ## What Will the App Do?
+ ## What This App Will Do?
  The Unit Converter app will allow the user to:
  - Convert distances (e.g., kilometers to miles).
  - Convert weights (e.g., kilograms to pounds).
