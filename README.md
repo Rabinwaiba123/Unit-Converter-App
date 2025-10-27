@@ -5,8 +5,8 @@
  conditionals, and user input in Java.
  ## What Will the App Do?
  The Unit Converter app will allow the user to:
- ●       Convert distances (e.g., kilometers to miles).
- ●       Convert weights (e.g., kilograms to pounds).
- ●       Convert temperatures (e.g., Celsius to Fahrenheit).
+ - Convert distances (e.g., kilometers to miles).
+ - Convert weights (e.g., kilograms to pounds).
+ - Convert temperatures (e.g., Celsius to Fahrenheit).
  We’ll focus on a console-based version of the app, but the structure can be extended
  into a GUI-based app in the future.
